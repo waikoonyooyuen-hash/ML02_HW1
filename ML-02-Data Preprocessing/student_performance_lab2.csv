@@ -1,0 +1,21 @@
+Student_ID,Age,Study_Hours,Score,Education_Level,Department,Passed
+S001,20,12.5,75.0,High School,CS,Yes
+S002,21,15.0,82.5,Bachelor,IT,Yes
+S003,-5,8.0,50.0,High School,SE,No
+S004,22,20.0,95.0,Master,DS,Yes
+S005,20,10.0,68.0,Bachelor,CS,Yes
+S005,20,10.0,68.0,Bachelor,CS,Yes
+S007,,,70.0,Bachelor,IT,Yes
+S008,23,18.5,88.0,Master,DS,Yes
+S009,200,5.0,40.0,High School,SE,No
+S010,21,14.0,78.0,Bachelor,CS,Yes
+S011,22,16.5,85.0,Master,DS,Yes
+S012,,,60.0,High School,SE,No
+S013,20,11.0,,Bachelor,IT,Yes
+S014,19,9.5,62.0,High School,CS,No
+S015, 21 ,13.0,74.0,Bachelor,SE,Yes
+S016,22,17.0,89.0,Master,DS,Yes
+S017,20,10.5,65.0,High School,IT,No
+S018,23,19.0,92.0,Master,DS,Yes
+S019,21,12.0,71.0,Bachelor,CS,Yes
+S020,22,15.5,,Bachelor,IT,Yes
